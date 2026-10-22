@@ -17,7 +17,7 @@ Developed an E-Commerce application using a Microservices Architecture with ASP.
 - **Order Service:** Handles order creation and order management.
 - **Inventory Service:** Manages product stock and stock availability.
 - **API Gateway:** Routes client requests to the appropriate microservices.
-- - **Resilience:** Implemented resilience strategies such as retries, timeouts, and circuit breakers to handle transient failures and improve microservices reliability.
+- **Resilience:** Implemented resilience strategies such as retries, timeouts, and circuit breakers to handle transient failures and improve microservices reliability.
 - **Idempotency:** Implemented idempotency to prevent duplicate operations during repeated API requests, helping avoid duplicate orders and inventory updates.
 
 ## Key Features
